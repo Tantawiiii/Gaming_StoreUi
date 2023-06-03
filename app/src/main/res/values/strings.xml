@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Gaming StoreUi</string>
+    <string name="get_a_fantastic_n_gaming_experience">Get a <font color='#2FD32B'><b>Fantastic\n Gaming </b></font>Experience</string>
+    <string name="line_bg">line_bg</string>
+    <string name="intro_image">intro image</string>
+    <string name="feel_the_experience_of_playing_games_n_with_your_friends_more_exiting">Feel the experience of playing games \n with your friends more exiting</string>
+    <string name="get_started">Get Started</string>
+    <string name="profile_image">profile Image</string>
+    <string name="expert">Expert:</string>
+    <string name="ahmed_ramadan">Ahmed Ramadan</string>
+    <string name="search">Search . . .</string>
+    <string name="card_icon">card icon</string>
+    <string name="notification_icon">notification icon</string>
+    <string name="tactical_shooter">Tactical Shooter</string>
+    <string name="volerant_image">Volerant Image</string>
+    <string name="agents_abilities_meet_tactical_gun_play_n_play_valorant_for_free_today">Agents\' abilities meet tactical Gun play. \nPlay VALORANT for Free Today.</string>
+    <string name="read_more">Read More...</string>
+    <string name="play_game">Play Game</string>
+    <string name="official_version">Official Version</string>
+    <string name="masterpiece">MASTERPIECE</string>
+
+</resources>
