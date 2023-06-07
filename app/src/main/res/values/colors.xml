@@ -17,4 +17,7 @@
     <color name="title_featured">#D8A5A0A0</color>
     <color name="category">#C0C0C0</color>
     <color name="gray">#707070</color>
+    <color name="blue">#59BCCE</color>
+    <color name="red">#B73232</color>
+
 </resources>
