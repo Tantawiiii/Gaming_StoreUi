@@ -26,5 +26,10 @@
     <string name="gta_v">GTA-V</string>
     <string name="free_to_play">Free To Play</string>
     <string name="grand_theft_auto_v_and_gta_online_n_now_upgraded_for_playstation_5_and_xbox">Grand Theft Auto V and GTA Online \n now upgraded for PlayStation 5 and Xbox</string>
+    <string name="todo">TODO</string>
+    <string name="dota_2_is_an_rts_styled_moba_type_ncompetitive_team_game_with_rpg_elements">Dota 2 is an RTS-styled MOBA-type \ncompetitive team game with RPG elements.</string>
+    <string name="fantastic">Fantastic</string>
+    <string name="genshin">Genshin</string>
+    <string name="genshin_impact_is_an_open_world_action_rpg_in_the_game_set_forth_on_a_journey">Genshin Impact is an open-world action RPG. In the game, set forth on a journey</string>
 
 </resources>
